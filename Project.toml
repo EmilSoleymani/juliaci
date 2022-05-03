@@ -1,0 +1,7 @@
+name = "juliaci"
+uuid = "3f8045f0-56f1-4f64-a10a-cfa84f35926a"
+authors = ["emilsoleymani "]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
