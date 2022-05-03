@@ -1,7 +1,7 @@
 module juliaci
 export lerp
 
-function lerp(a, b, x)
+function lerp(a::Tuple{Float64, Float64}, b::Tuple{Float64, Float64}, x::Float64)
     x1 = a[1]
     y1 = a[2]
     x2 = b[1]
