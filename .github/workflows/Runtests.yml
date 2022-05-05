@@ -17,4 +17,4 @@ jobs:
       - uses: julia-actions/julia-runtest@latest
       - name: Run linter
         run: |
-        julia -e 'using linter; f(linter)'
+          julia -e 'using linter; f(linter)'
