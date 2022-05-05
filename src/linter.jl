@@ -7,7 +7,7 @@ const sscachedir = "/Users/emilsoleymani/Documents/SummerProject/JuliaContinuous
 const envdir = "/Users/emilsoleymani/.julia/environments/v1.7/" 
 
 # This is the 'root' file of the project. All other files will (hopefully!) be loaded subsequently through analysis of calls to `include`.
-rootfile = "/home/zac/.julia/dev/StaticLint/src/StaticLint.jl" 
+rootfile = "/Users/emilsoleymani/Documents/SummerProject/JuliaContinuousIntegration/juliaci/src/juliaci.jl" 
 
 function f(rootfile)
     # This will hold the files of the loaded project
